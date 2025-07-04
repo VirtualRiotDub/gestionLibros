@@ -1,7 +1,7 @@
 # Sistema de Gestión Académica - Instituto Tecnológico San Juan
 
 Este proyecto es una aplicación web para la gestión de cursos y docentes, que incluye un backend API RESTful en Node.js con Express y SQLite, y un frontend HTML que consume la API para realizar operaciones CRUD.
-
+[![image.png](https://i.postimg.cc/RVYrwgw9/image.png)](https://postimg.cc/0b7HsdtH)
 ---
 
 ## Tecnologías utilizadas
