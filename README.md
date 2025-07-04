@@ -45,7 +45,7 @@ npm install express sequelize sqlite3 cors body-parser
 node server.js
 ```
 
-El servidor correrá en `http://localhost:3000`.
+El servidor correrá en `https://gestionlibros.onrender.com`.
 
 ---
 
